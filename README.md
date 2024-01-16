@@ -5,7 +5,12 @@ This is a tool for scholarship. This system includes frontend(react.js), backend
 By 5 developers. 
 
 # Required Skills
-game developement, web3.js, integration ronin chain, discord bot, mern stack, sql management.
+### game developement
+### web3.js
+### integration ronin chain
+### discord bot
+### mern stack 
+### sql management
 
 # New Design
 https://anan953.github.io/infinity-force
