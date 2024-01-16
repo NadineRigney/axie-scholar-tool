@@ -1,5 +1,10 @@
+# Intro
+
+This is a tool for scholarship. This system includes frontend(react.js), backend(express.js), ronin api, discord bot.
+By 5 developers. 
+
 # New Design
-https://anan953.github.io/
+https://anan953.github.io/infinity-force
 
 # Scholarship tool
 ![Intro Picture](https://github.com/NadineRigney/axie-scholar-tool/blob/main/intro.png?raw=true)
